@@ -9,7 +9,6 @@ import java.io.Serializable;
 
 /**
  * 搜索商品的属性信息
- * Created by macro on 2018/6/27.
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

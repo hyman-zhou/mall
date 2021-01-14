@@ -17,7 +17,6 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * Oss对象存储管理Controller
- * Created by macro on 2018/4/26.
  */
 @Controller
 @Api(tags = "OssController", description = "Oss管理")

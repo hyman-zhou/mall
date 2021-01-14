@@ -23,7 +23,6 @@ import java.util.Map;
 
 /**
  * RestTemplate示例Controller
- * Created by macro on 2018/9/17.
  */
 @Api(tags = "RestTemplateDemoController", description = "RestTemplate示例")
 @Controller
